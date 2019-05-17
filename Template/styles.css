@@ -22,7 +22,7 @@ body {
 }
 
 header { 
-	 background: url('Placeholder.png') no-repeat center; //Can put image here for header IF NOT REMOVE
+	 background: url("../Template/1%2056D27aV6HKexBFVGXX9Ccw.png") no-repeat center; //Can put image here for header IF NOT REMOVE
 	-webkit-background-size: contain;
     -moz-background-size: contain;
     -o-background-size: contain;

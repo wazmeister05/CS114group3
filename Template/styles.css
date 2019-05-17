@@ -29,6 +29,11 @@ header {
     background-size: contain;
 } 
 
+img{
+	width: 80%
+	height: 80%
+}
+
 /*Removes lines under links, adds when mouse hovering over them*/
 a { 
 	text-decoration: none; 
